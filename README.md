@@ -1,2 +1,2 @@
-# Wht-i-am-learning-
+# Learnings
 Web Development
